@@ -9,7 +9,7 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 * 🌍  I'm based in Addis ababa, Ethiopia
 * 🖥️  See my portfolio at [https://www.upwork.com/freelancers/~0155bf449122a98824?mp\_source=share](http://github.com/EyuReaper)
 * ✉️  You can contact me at [eyureaper@gmail.com](mailto:eyureaper@gmail.com)
-* 🚀  I'm currently working on [recipe-browser(SPA)](http://github.com/EyuReaper/recipe-browser)
+* 🚀  I'm currently working on [tasktide]((https://github.com/EyuReaper/tasktide))
 * 🧠  I'm learning react + typescript
 * 🤝  I'm open to collaborating on linked-in or upwork
 * ⚡  ps: i have an insatible lust for knowledge
