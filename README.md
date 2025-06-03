@@ -34,6 +34,6 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 
 <a href="http://www.github.com/EyuReaper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EyuReaper&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/EyuReaper"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EyuReaper&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/EyuReaper"><img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/EyuReaper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyuReaper&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
