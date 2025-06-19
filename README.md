@@ -7,7 +7,7 @@ Front-end web developer
 I'm a passionate front-end developer with a keen eye for design and a deep understanding of modern web technologies. With my experience crafting elegant and responsive user interfaces, I'm driven to create digital experiences that not only look stunning but also provide seamless functionality. My expertise spans a wide range of tools and frameworks, including HTML, CSS, JavaScript, React, Vue.js, and Angular. I'm constantly exploring new trends and best practices in the ever-evolving front-end landscape, ensuring that the solutions I deliver are cutting-edge and AI optimized and web development and future-proof
 
 * 🌍  I'm based in Addis ababa, Ethiopia
-* 🖥️  See my portfolio at (eyus-portfolio.vercel.app)
+* 🖥️  See my portfolio at [eyus-portfolio.varcel.app](https://eyus-portfolio.vercel.app)
 * ✉️  You can contact me at [eyureaper@gmail.com](mailto:eyureaper@gmail.com)
 * 🚀  I'm currently working on [tasktide]((https://github.com/EyuReaper/tasktide))
 * 🧠  I'm learning react + typescript
