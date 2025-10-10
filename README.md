@@ -9,7 +9,7 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 * 🌍  I'm based in Addis ababa, Ethiopia
 * 🖥️  See my portfolio at [eyus-portfolio.varcel.app](https://eyus-portfolio.vercel.app)
 * ✉️  You can contact me at [eyureaper@gmail.com](mailto:eyureaper@gmail.com)
-* 🚀  I'm currently working on [YCKF-replica](([https://github.com/EyuReaper/tasktide](https://github.com/EyuReaper/YCKF-replica)))
+* 🚀  I'm currently working on [YCKF-replica](((https://github.com/EyuReaper/YCKF-replica)))
 * 🧠  I'm learning react + typescript
 * 🤝  I'm open to collaborating on linked-in or upwork
 * ⚡  ps: i have an insatible lust for knowledge
