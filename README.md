@@ -32,10 +32,14 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/EyuReaper"><img src="https://github-readme-stats.vercel.app/api?username=EyuReaper&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="EyuReaper's GitHub stats" /></a>
+<a href="http://www.github.com/EyuReaper"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyuReaper&show_icons=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="EyuReaper's GitHub stats" /></a>
 
 <a href="http://www.github.com/EyuReaper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EyuReaper&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/EyuReaper"><img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/EyuReaper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyuReaper&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/EyuReaper" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EyuReaper&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+
+<a href="https://github.com/EyuReaper"><img src="https://wakatime.com/badge/user/EyuReaper.svg" alt="WakaTime Stats" /></a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EyuReaper.EyuReaper" alt="Visitors Count" />
