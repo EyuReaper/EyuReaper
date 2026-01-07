@@ -40,6 +40,9 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 
 <a href="https://github.com/EyuReaper" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EyuReaper&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
 
-<a href="https://github.com/EyuReaper"><img src="https://wakatime.com/badge/user/EyuReaper.svg" alt="WakaTime Stats" /></a>
+<a href="https://wakatime.com/@EyuReaper">
+<img src="https://wakatime.com/badge/user/a3af66c3-6cb4-4c7f-ab5b-9f135580edac.svg?range=today" alt="today" />
+</a>
+
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=EyuReaper.EyuReaper" alt="Visitors Count" />
