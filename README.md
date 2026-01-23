@@ -29,20 +29,26 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 <p align="left"> <a href="https://www.facebook.com/Eyu El Getachew" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/EyuReaper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eyuel-getachew-37061513b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+**My GitHub Stats**
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/EyuReaper"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyuReaper&show_icons=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="EyuReaper's GitHub stats" /></a>
-
-<a href="http://www.github.com/EyuReaper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EyuReaper&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/EyuReaper"><img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/EyuReaper" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EyuReaper&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
-
-<a href="https://wakatime.com/@EyuReaper">
-<img src="https://wakatime.com/badge/user/a3af66c3-6cb4-4c7f-ab5b-9f135580edac.svg?range=today" alt="today" />
+<a href="https://github.com/EyuReaper">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyuReaper&show_icons=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="EyuReaper's GitHub stats" />
 </a>
 
+<a href="https://github.com/EyuReaper">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=EyuReaper&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/EyuReaper">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
+<a href="https://github.com/EyuReaper" align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EyuReaper&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+</a>
+
+<a href="https://wakatime.com/@EyuReaper">
+  <img src="https://wakatime.com/badge/user/a3af66c3-6cb4-4c7f-ab5b-9f135580edac.svg?range=today" alt="Coding time today" />
+</a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=EyuReaper.EyuReaper" alt="Visitors Count" />
