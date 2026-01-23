@@ -52,3 +52,8 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 </a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=EyuReaper.EyuReaper" alt="Visitors Count" />
+
+### Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=EyuReaper&theme=dracula&column=7&no-frame=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&margin-w=15" alt="GitHub Profile Trophy" />
+</a>
