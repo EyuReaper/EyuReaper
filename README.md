@@ -1,141 +1,105 @@
 <div align="center">
-
-# 👋 Hi, I'm **Eyuel Getachew**  
-*Front-End Web Developer* · *Addis Ababa, Ethiopia* 🇪🇹
-
-![Banner GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Cool Banner" width="300"/>
+  <h1>👋 <b>Eyuel Getachew</b></h1>
+  <p><b>🎨 Front-End Developer</b> | <b>🇪🇹 Addis Ababa</b></p>
+  
+  <img src="https://img.shields.io/badge/Portfolio-eyus%2Dportfolio.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Email-eyureaper%40gmail.com-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  
 </div>
 
 ---
+
+## 🚀 <b>About Me</b>
+<p align="center">
+  <em>Passionate front-end dev crafting stunning, responsive UIs with modern tech 🚀</em><br>
+  React ✨ TypeScript 💪 Next.js ⚡ AI-Optimized Solutions 🤖
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EyuReaper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyuReaper&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15"/>
+</div>
+
+## 🛠️ <b>Skills & Tools</b>
+
+<table align="center">
+<tr>
+<td width="33%">
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+</td>
+<td width="33%">
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=#646CFF)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+</td>
+<td width="33%">
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+## 🔥 <b>Currently Building</b>
+<div align="center">
+  
+[![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
+
+</div>
+
+## 📈 <b>GitHub Activity</b>
 
 <div align="center">
   
-**👨‍💻 Passionate about crafting elegant, responsive UIs with modern web tech**  
-*HTML · CSS · JavaScript · React · TypeScript · Next.js · Node.js · AI-optimized solutions*
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=EyuReaper&theme=dracula&hide_border=true&background=1c1917&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 
-![Carbon](https://img.shields.io/badge/-Carbon-black?style=flat&logo=carbon&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&theme=dracula&bg_color=1c1917&color=ffffff&line=facc15&point=14b8a6&area=true&hide_border=true" height="200em"/>
 
 </div>
 
-## 🚀 Quick Info
-<table>
-<tr>
-<td align="center">
-🌍 **Based In**<br>Addis Ababa, Ethiopia
-</td>
-<td align="center">
-🖥️ **Portfolio**<br>[eyus-portfolio.vercel.app](https://eyus-portfolio.vercel.app)
-</td>
-<td align="center">
-✉️ **Email**<br>[eyureaper@gmail.com](mailto:eyureaper@gmail.com)
-</td>
-<td align="center">
-🚀 **Current**<br>[jano-fidel](https://github.com/EyuReaper/jano-fidel)
-</td>
-</tr>
-<tr>
-<td align="center">
-🧠 **Learning**<br>React + TypeScript
-</td>
-<td align="center">
-🤝 **Open To**<br>LinkedIn/Upwork collabs
-</td>
-<td align="center">
-⚡ **Fun Fact**<br>Insatiable knowledge lust!
-</td>
-<td></td>
-</tr>
-</table>
-
-## 🛠️ Tech Stack
+## 🏆 <b>GitHub Trophies</b>
 <div align="center">
-<table>
-<tr>
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="42" height="42"/></a></td>
-  <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42"/></a></td>
-</tr>
-<tr>
-  <td><a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="42" height="42"/></a></td>
-  <td><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42"/></a></td>
-</tr>
-<tr>
-  <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="42" height="42"/></a></td>
-</tr>
-</table>
+  <img src="https://github-profile-trophy.vercel.app/?username=EyuReaper&theme=dracula&no-frame=true&column=8&margin-w=15&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917"/>
 </div>
 
-## 📊 GitHub Analytics
+## 👥 <b>Connect</b>
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EyuReaper&color=14b8a6&style=flat-square)](https://github.com/EyuReaper)
-[![EyuReaper's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyuReaper&show_icons=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true)](https://github.com/EyuReaper)
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=EyuReaper&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/EyuReaper)
-
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EyuReaper&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true)](https://github.com/EyuReaper)
-
+  <a href="https://linkedin.com/in/eyuel-getachew-37061513b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/Eyu El Getachew">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/EyuReaper">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
-
-## 🔥 Featured Projects
-<div align="center">
-
-[![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula)](https://github.com/EyuReaper/jano-fidel)
-
-*⭐ Check my [49 repositories](https://github.com/EyuReaper?tab=repositories)*
-
-</div>
-
-## 🏆 Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EyuReaper&theme=dracula&column=7&no-frame=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-## 💬 Connect With Me
-<div align="center">
-<table>
-<tr>
-<td>
-<a href="https://www.linkedin.com/in/eyuel-getachew-37061513b">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
-</picture>
-</a>
-</td>
-<td>
-<a href="https://www.facebook.com/Eyu El Getachew">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40"/>
-</picture>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-## 🎯 Currently Building
-- 🔄 React + TypeScript mastery
-- 🤖 AI-powered web experiences  
-- 🌐 Scalable front-end architecture
 
 ---
 
 <div align="center">
-<svg width="350" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Fira Code', monospace; text-align: center; color: #14b8a6; font-size: 20px; font-weight: bold;">
-      Thanks for visiting! ⭐ Let's connect! 👋 Happy coding! 💻
-    </div>
-  </foreignObject>
-</svg>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Dev%20from%20Ethiopia%20🚀%0AReact%20%2B%20TypeScript%20Expert%20💪%0ALet%27s%20Build%20Something%20Cool!%20⭐&font=Fira%20Code&center=true&pause=1000&color=14b8a6&vCenter=true&width=600"/>
+</div>
+
+<div align="center" style="padding: 20px">
+  <img src="https://komarev.com/ghpvc/?username=EyuReaper&color=14b8a6&style=flat-square"/>
+  <img src="https://wakatime.com/badge/user/a3af66c3-6cb4-4c7f-ab5b-9f135580edac.svg"/>
 </div>
