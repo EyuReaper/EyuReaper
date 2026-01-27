@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>👋 Hi, I'm Eyuel Getachew</h1>
   <h3>🎨 Front-End Web Developer | 🇪🇹 Addis Ababa, Ethiopia</h3>
@@ -22,6 +21,30 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 - 🧠 Learning: **React + TypeScript**
 - 🤝 Open to collaborating on **LinkedIn** or **Upwork**
 - ⚡ P.S.: I have an insatiable lust for knowledge
+
+### 🔥 Featured Projects
+
+<div align="left" ">
+  <h3>Highlights of My Work</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 24px 0;">
+<div style="flex: 1 1 300px; max-width: 360px;">
+
+  [![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
+</div>
+<div style="flex: 1 1 300px; max-width: 360px;">
+
+  [![eyus-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=eyus-portfolio&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/eyus-portfolio)
+</div>
+<div style="flex: 1 1 300px; max-width: 360px;">
+
+  [![OmniWrap](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=OmniWrap&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/OmniWrap)
+  </div>
+</div>
+
+  <br>
+  <em>Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
+</div>
 
 ### 🛠️ Skills & Tools
 
@@ -54,12 +77,6 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 </tr>
 </table>
 
-### 🔥 Currently Building
-
-<div align="center">
-  [![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
-</div>
-
 ### 📈 GitHub Activity
 
 <div align="center">
@@ -71,7 +88,6 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=EyuReaper&theme=dracula&hide_border=true&background=1c1917&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EyuReaper&theme=dracula&bg_color=1c1917&color=ffffff&line=facc15&point=14b8a6&area=true&hide_border=true" height="200em"/>
 </div>
-
 
 ### 👥 Connect With Me
 
