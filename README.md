@@ -24,9 +24,6 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 
 ### 🔥 Featured Projects
 
-<div align="left" ">
-  <h3>Highlights of My Work</h3>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 24px 0;">
 <div style="flex: 1 1 300px; max-width: 360px;">
 
@@ -44,7 +41,7 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 
   <br>
   <em>Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
-</div>
+
 
 ### 🛠️ Skills & Tools
 
