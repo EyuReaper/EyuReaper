@@ -25,54 +25,39 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 ### 🔥 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 24px 0;">
-<div style="flex: 1 1 300px; max-width: 360px;">
+  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
+    [![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
+    <p style="margin-top: 12px; font-size: 0.95em;">
+      Native Amharic programming language built on Node.js — write in Ge'ez script, transpiles to JavaScript
+    </p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
+    [![eyus-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=eyus-portfolio&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/eyus-portfolio)
+    <p style="margin-top: 12px; font-size: 0.95em;">
+      Personal portfolio site — Vue.js (Nuxt) + Tailwind, responsive, accessible, live at eyus-portfolio.vercel.app
+    </p>
+  </div>
+  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
 
-  [![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
-</div>
-<div style="flex: 1 1 300px; max-width: 360px;">
+    [![OmniWrap](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=OmniWrap&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/OmniWrap)
 
-  [![eyus-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=eyus-portfolio&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/eyus-portfolio)
-</div>
-<div style="flex: 1 1 300px; max-width: 360px;">
 
-  [![OmniWrap](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=OmniWrap&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/OmniWrap)
+    <p style="margin-top: 12px; font-size: 0.95em;">
+      TypeScript + Next.js application — Prisma ORM, authentication, dashboard UI, currently in development
+    </p>
   </div>
 </div>
 
-  <br>
-  <em>Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
-
+<br>
+<em>Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
 
 ### 🛠️ Skills & Tools
 
-<table align="center">
-<tr>
-<td width="33%">
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,sass,nodejs,supabase,git,figma,python,linux,html,css,tailwind,prisma" alt="My Skills" />
+  </a>
+</p>
 
 ### 📈 GitHub Activity
 
@@ -106,5 +91,9 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Dev+from+Ethiopia+🚀;React+%2B+TypeScript+Expert+💪;Let's+Build+Something+Cool!+⭐&font=Fira+Code&center=true&pause=1000&color=14b8a6&vCenter=true&width=600"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=14b8a6&center=true&vCenter=true&width=600&lines=Frontend+Dev+from+Ethiopia+🇪🇹+🚀;React+%2B+TypeScript+Expert+💻+;Let's+Create+Something+Amazing!+⭐" alt="Dynamic Typing Animation" />
 </div>
