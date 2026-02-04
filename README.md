@@ -18,7 +18,7 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 - 🖥️ Check my portfolio: [eyus-portfolio.vercel.app](https://eyus-portfolio.vercel.app)
 - ✉️ Reach me at: **eyureaper@gmail.com**
 - 🚀 Currently building: **jano-fidel**
-- 🧠 Learning: **React + TypeScript**
+- 🧠 Learning: **Vue.js**
 - 🤝 Open to collaborating on **LinkedIn** or **Upwork**
 - ⚡ P.S.: I have an insatiable lust for knowledge
 
