@@ -22,36 +22,21 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 - 🤝 Open to collaborating on **LinkedIn** or **Upwork**
 - ⚡ P.S.: I have an insatiable lust for knowledge
 
-### 🔥 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 24px 0;">
-  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
-    [![jano-fidel](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=jano-fidel&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/jano-fidel)
-    <p style="margin-top: 12px; font-size: 0.95em;">
-      Native Amharic programming language built on Node.js — write in Ge'ez script, transpiles to JavaScript
-    </p>
-  </div>
-  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
-    [![eyus-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=eyus-portfolio&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/eyus-portfolio)
-    <p style="margin-top: 12px; font-size: 0.95em;">
-      Personal portfolio site — Vue.js (Nuxt) + Tailwind, responsive, accessible, live at eyus-portfolio.vercel.app
-    </p>
-  </div>
-  <div style="flex: 1 1 300px; max-width: 360px; text-align: center;">
+<div align="center">
 
-    [![OmniWrap](https://github-readme-stats.vercel.app/api/pin/?username=EyuReaper&repo=OmniWrap&theme=dracula&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&icon_color=facc15&hide_border=true)](https://github.com/EyuReaper/OmniWrap)
+## 🔥 Featured Repositories
 
-
-    <p style="margin-top: 12px; font-size: 0.95em;">
-      TypeScript + Next.js application — Prisma ORM, authentication, dashboard UI, currently in development
-    </p>
-  </div>
-</div>
+| **jano-fidel** | **eyus-portfolio** | **OmniWrap** |
+| :----: | :----: | :----: |
+| [![Stars](https://img.shields.io/github/stars/EyuReaper/jano-fidel?style=social&logo=github)](https://github.com/EyuReaper/jano-fidel) [![Forks](https://img.shields.io/github/forks/EyuReaper/jano-fidel?style=social&logo=github)](https://github.com/EyuReaper/jano-fidel) [![License](https://img.shields.io/github/license/EyuReaper/jano-fidel?style=flat-square&logo=law&logoColor=white&color=14b8a6)](https://github.com/EyuReaper/jano-fidel) | [![Stars](https://img.shields.io/github/stars/EyuReaper/eyus-portfolio?style=social&logo=github)](https://github.com/EyuReaper/eyus-portfolio) [![Forks](https://img.shields.io/github/forks/EyuReaper/eyus-portfolio?style=social&logo=github)](https://github.com/EyuReaper/eyus-portfolio) [![License](https://img.shields.io/github/license/EyuReaper/eyus-portfolio?style=flat-square&logo=law&logoColor=white&color=14b8a6)](https://github.com/EyuReaper/eyus-portfolio) | [![Stars](https://img.shields.io/github/stars/EyuReaper/OmniWrap?style=social&logo=github)](https://github.com/EyuReaper/OmniWrap) [![Forks](https://img.shields.io/github/forks/EyuReaper/OmniWrap?style=social&logo=github)](https://github.com/EyuReaper/OmniWrap) [![License](https://img.shields.io/github/license/EyuReaper/OmniWrap?style=flat-square&logo=law&logoColor=white&color=14b8a6)](https://github.com/EyuReaper/OmniWrap) |
+| [⭐ View Repo](https://github.com/EyuReaper/jano-fidel) | [⭐ View Repo](https://github.com/EyuReaper/eyus-portfolio) | [⭐ View Repo](https://github.com/EyuReaper/OmniWrap) |
 
 <br>
-<em>Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
+<em>🚀 Explore more → <a href="https://github.com/EyuReaper?tab=repositories">View all repositories</a></em>
+</div>
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -95,5 +80,5 @@ I'm a passionate front-end developer with a keen eye for design and a deep under
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=14b8a6&center=true&vCenter=true&width=600&lines=Frontend+Dev+from+Ethiopia+🇪🇹+🚀;React+%2B+TypeScript+Expert+💻+;Let's+Create+Something+Amazing!+⭐" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=14b8a6&center=true&vCenter=true&width=600&lines=Frontend+Dev+from+Ethiopia+🇪🇹+🚀;React+%2B+TypeScript+Expert+💻;Building+Jano+Fidel+(ጃኖ+ፊደል)+🔥;Let's+Create+Something+Amazing!+⭐" alt="Dynamic Typing Animation" />
 </div>
