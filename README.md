@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Eyuel Getachew</h1>
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Futuristic banner" />
+ Hi, I'm Eyuel Getachew</h1>
   <h3>🎨 Front-End Web Developer | 🇪🇹 Addis Ababa, Ethiopia</h3>
   
   <a href="https://eyus-portfolio.vercel.app" target="_blank">
