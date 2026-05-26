@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=250&section=header&text=Eyuel%20Getachew&fontSize=80&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header" alt="Header Banner" />
 
 <div align="center">
   <img src="https://flagcdn.com/w160/et.png" width="80" alt="Ethiopia Flag" />
