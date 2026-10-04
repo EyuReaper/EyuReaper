@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header" width="100%" alt="Header Banner" />
 
-  <img src="https://flagcdn.com/w160/et.png" width="70" alt="Ethiopia Flag" />
+  
   <h1>Hi, I'm Eyuel Getachew</h1>
   <h3>Full-Stack Developer ◈ Frontend-Oriented Systems Builder</h3>
   <p><b>Addis Ababa, Ethiopia</b></p>
@@ -89,7 +89,7 @@ I'm a passionate full-stack developer dedicated to crafting elegant, responsive,
 
 ---
 
-### Dynamic Status
+### Dynamic Quotes
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1400&color=14b8a6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+from+Ethiopia;TypeScript+%2B+React+%2B+Next.js+Architect;Crafting+Teleboros+%26+Fandom+Rush;Deep+Diving+into+Go+%26+Systems+Engineering;First-Principles+Thinking+Never+Gets+Deprecated" alt="Dynamic Typing Animation" />
